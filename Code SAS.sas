@@ -2,7 +2,7 @@
 libname Projet "/home/u60605666/sasuser.v94";
 
 /* Importer les données Excel */
-proc import datafile="/home/u60605666/Projet/Fast_food.xlsx" 
+proc import datafile="Fast_food.xlsx" 
      dbms=xlsx 
      out=initial_sample;
      getnames=Yes;
