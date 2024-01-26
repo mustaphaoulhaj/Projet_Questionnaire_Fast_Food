@@ -1,13 +1,13 @@
 # Analyse des résultats d'un questionnaire sous SAS
 
-1- Objectifs de l'enquête « La restauration rapide en France »
+## 1- Objectifs de l'enquête « La restauration rapide en France »
 
-✓ Objectifs principaux
+### ✓ Objectifs principaux
 
 - Etudier le comportement des français et leurs habitudes en fast-food.
 - Savoir leurs points de vue concernant la consommation des fast-foods.
 
-✓ Objectifs secondaires
+### ✓ Objectifs secondaires
 
 - La fréquence de consommation des fast-foods.
 - Le mode de consommation : sur place ou emporter ou livraison.
@@ -16,14 +16,15 @@
 - La dépense moyenne de consommation.
 - Les critères manquent en fast-food.
 
-2- Méthodologie de l’enquête
 
-✓ Conception
+## 2- Méthodologie de l’enquête
+
+### ✓ Conception
 
 Unité d’observation : L’unité d’observation de l’enquête est population française
 Champ de l’enquête : France
 
-✓ Elaboration du questionnaire
+### ✓ Elaboration du questionnaire
 
 Concernant à notre méthode d’échantillonnage, nous avons opté pour un questionnaire effectué sur Google Forms à 3 sections :
 
@@ -40,11 +41,12 @@ Concernant à notre méthode d’échantillonnage, nous avons opté pour un ques
 - La proportion des français qui consomment les fast-foods.
 - Les critères manquent en fast-food.
 
-✓ Outils d'analyse de résultats
+### ✓ Outils d'analyse de résultats
 
 • Excel
 • SAS Studio 
 
-3- Difficultés
+
+## 3- Difficultés
 
 Les limites sont relatives à la taille de l’échantillon qui est due à certaines difficultés et réalités du terrain compte tenu des contraintes de temps, de défaut, de la dispersion des enquêtés et surtout de la non disponibilité d’une base de sondage. Pour pallier cette limitation, la méthode de bootstrap a été utilisée afin d'augmenter la taille de l'échantillon et ainsi améliorer la représentativité des résultats.
